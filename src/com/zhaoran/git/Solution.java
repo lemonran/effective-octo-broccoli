@@ -4,9 +4,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution {
-    /**
-     * ÊÇ·ñÊÇ»ØÎÄÊı×Ö
-     * @param digitInt
+  
+     /**
+     * æ˜¯å¦æ˜¯å›æ–‡æ•°å­—
+     * @param nums
+     * @param target
      * @return
      */
     public boolean isPalindrome(int digitInt){
